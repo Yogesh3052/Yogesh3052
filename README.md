@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://www.enterpriseappstoday.com/wp-content/uploads/2022/09/Content-Marketing-Statistics-2.gif)]()
+<!--[![MasterHead](./github-header-image.png)]()-->
 <h1 align="center">👋 Hi, I'm Yogesh Magar</h1> 
+<div align="center"><img src="./github-header-image.png"/></div>
 <h3 align="center"> 💻Cybersecurity Enthusiast and Passionate learner</h3>
 <p align="center"><img  align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh3052&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh3052" /> </p>
@@ -40,6 +41,8 @@ I have a passion for protecting systems and data through robust security practic
 - <h3>Databases</h3>
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)<hr>
 - <h3>Development</h3>
+<img  align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"/>
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,git,github,android&theme=light)](https://skillicons.dev)<hr>
 <h2 align="Center"> 📜 Certification:-</h2>
 
