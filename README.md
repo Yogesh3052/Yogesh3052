@@ -12,20 +12,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Yogesh Magar
+[![MasterHead](https://www.enterpriseappstoday.com/wp-content/uploads/2022/09/Content-Marketing-Statistics-2.gif)]()
+<h1 align="center">👋 Hi, I'm Yogesh Magar</h1> 
+<h3 align="center"> 💻Cybersecurity Enthusiast and Passionate learner</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh3052&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh3052" /> </p>
 
-## 💻 Cybersecurity Enthusiast and Ethical Hacker
+
+- 🌱 I’m currently learning **CEH, PJPT**
 
 I have a passion for protecting systems and data through robust security practices. My expertise spans across various domains in cybersecurity, including ethical hacking, threat intelligence, and more.
 
-### 🔧 Skills & Tools:
-- **Programming:** C++, Java, Python.
-- **Cybersecurity:** VAPT, Metasploit, NMAP, Traffic Analysis, Threat Intelligence, Active Directory.
-- **Platforms:** Linux, Windows, Android Development
-- **Databases:** MySQL
-- **Development:** Flutter, Git
 
-### 📜 Certifications:
+<h2 align="Center"> 🔧 Languages and Tools:</h2>
+<hr>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+
+- <h3>Programming</h3>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></col><hr>
+- <h3>Cybersecurity</h3>
+ <img src="https://suprajatechnologies.com/images/vapticon.jpg" height=40 width=40/><img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" height ="40" width="40"/><img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" height ="40" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" width="40"/><img src="https://seeklogo.com/images/A/azure-active-directory-logo-C196F4B2D3-seeklogo.com.png" height="40" width="40"/><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" height="40" width="40"/><hr>
+- <h3>Platforms</h3>
+  
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,windows&theme=dark)](https://skillicons.dev)<hr>
+- <h3>Databases</h3>
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)<hr>
+- <h3>Development</h3>
+[![My Skills](https://skillicons.dev/icons?i=flutter,git,github,android&theme=light)](https://skillicons.dev)<hr>
+<h2 align="Center"> 📜 Certification:-</h2>
+
 - ISC2 Certified in Cybersecurity
 - Ethical Hacking Essential
 - Cybersecurity and Ethical Hacking
@@ -33,13 +49,22 @@ I have a passion for protecting systems and data through robust security practic
 - Programming with JavaScript
 - Programming for Everybody (Getting Started with Python)
 
-### 🛠️ Projects:
+<h2 align="Center"> 🛠️ Projects:</h2>
 - **System Hacking:** Explored the crucial role of passwords in computing applications and utilized tools like Hydra and John the Ripper for cracking. The project focused on enhancing security and accessing legal digital evidence.
 
-### 🌟 Experience:
-- **Cybersecurity Intern at Coincent.ai:** Gained hands-on experience in conducting various attacks, utilizing SQL tools, analyzing malware threats, implementing sniffing techniques, engaging in social engineering practices, and proficiently using OWASP tools.
+<h2 align="Center"> 🌟Experience:</h2>
 
----
+- **Cybersecurity Intern at Coincent.ai:**
+Gained hands-on experience in conducting various attacks, utilizing SQL tools, analyzing malware threats, implementing sniffing techniques, engaging in social engineering practices, and proficiently using OWASP tools.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh3052&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_progress=true" alt="" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh3052&show_icons=true&locale=en&theme=tokyonight" alt="" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh3052&&theme=tokyonight" alt="" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yogesh3052&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 📈 Always eager to learn and contribute to the cybersecurity community. Let's connect and collaborate!
 
