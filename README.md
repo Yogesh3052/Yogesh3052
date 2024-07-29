@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 [![MasterHead](https://www.enterpriseappstoday.com/wp-content/uploads/2022/09/Content-Marketing-Statistics-2.gif)]()
 <h1 align="center">👋 Hi, I'm Yogesh Magar</h1> 
 <h3 align="center"> 💻Cybersecurity Enthusiast and Passionate learner</h3>
+<p align="center"><img  align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh3052&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh3052" /> </p>
 
 
@@ -50,6 +51,7 @@ I have a passion for protecting systems and data through robust security practic
 - Programming for Everybody (Getting Started with Python)
 
 <h2 align="Center"> 🛠️ Projects:</h2>
+
 - **System Hacking:** Explored the crucial role of passwords in computing applications and utilized tools like Hydra and John the Ripper for cracking. The project focused on enhancing security and accessing legal digital evidence.
 
 <h2 align="Center"> 🌟Experience:</h2>
@@ -67,6 +69,8 @@ Gained hands-on experience in conducting various attacks, utilizing SQL tools, a
 ![](https://github-contributor-stats.vercel.app/api?username=yogesh3052&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 📈 Always eager to learn and contribute to the cybersecurity community. Let's connect and collaborate!
-
-📫 [Email](mailto:yogesh05.magar@gmail.com) | [LinkedIn](https://linkedin.com/in/yogesh-magar-348875198) | [GitHub](https://github.com/Yogesh3052)
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:yogesh05.magar@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/yogesh-magar-348875198)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/Yogesh3052)
 
